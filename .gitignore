@@ -4,6 +4,7 @@
 # Allow README and LICENSE
 !README.md
 !LICENSE
+!CHANGELOG.md
 
 # Allow self
 !.gitignore
