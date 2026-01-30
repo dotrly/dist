@@ -1,6 +1,6 @@
-# Relay Runtime
+# Relay Helper
 
-This repository hosts the official Relay binaries.
+This repository hosts the official Relay Helper binaries.
 
 ## Download
 
