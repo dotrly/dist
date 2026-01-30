@@ -1,8 +1,9 @@
 # Ignore all files
 *
 
-# Allow README
+# Allow README and LICENSE
 !README.md
+!LICENSE
 
 # Allow self
 !.gitignore
