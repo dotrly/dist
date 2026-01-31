@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.4.20 (2026-01-31)
+- Automated release build.
+- Binaries updated.
+
+
 ## 0.4.19 (2026-01-30)
 - Automated release build.
 - Binaries updated.
